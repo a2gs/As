@@ -2,5 +2,5 @@
 
 virtualenv venv
 source venv/bin/activate
-pip3 freeze > packages.text
+pip3 freeze > requirements.txt
 deactivate
