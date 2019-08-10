@@ -2,5 +2,5 @@
 
 virtualenv venv
 source venv/bin/activate
-pip3 install -r packages.text
+pip3 install -r requirements.txt
 deactivate
