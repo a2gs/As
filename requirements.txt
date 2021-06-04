@@ -1,7 +1,7 @@
 bitcoinlib==0.4.10
 certifi==2019.6.16
 chardet==3.0.4
-Django==2.2.18
+Django==2.2.21
 fastecdsa==1.7.4
 idna==2.8
 pyaes==1.6.1
